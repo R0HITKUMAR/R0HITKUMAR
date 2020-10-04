@@ -28,7 +28,7 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 - 🔭 I’m currently doing B Tech/CSE from ABESEC.✌
 - 🌱 I’m currently learning HTML,CSS & JavaScript.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- 💬 For any Queries [**here !**]( mailto:r.kXXXXXX@gmail.com).
+- 💬 For any Queries [**here !**]( mailto:r.k2962002@gmail.com).
 - 💬 Ask me about anything [**here !**](https://github.com/rk2962002/rk2962002/issues)
 
 ### Languages and Tools:
@@ -54,7 +54,7 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 
 ### My Projects:
 
-- Website on [Monuments of India !](bit.ly/monuments-india).✌
+- Website on [Monuments of India !](https://rk2962002.github.io/monuments/monuments.html).✌
 
 ### Github Statistics:
 

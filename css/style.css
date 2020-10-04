@@ -1,0 +1,399 @@
+/** BODY DEFAULT CSS STYLES **/
+* {box-sizing: border-box;}
+
+body {
+  background-attachment: scroll;
+  font-family: 'Oxygen', sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0x;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+/** BODY DEFAULT LINKS CSS STYLES **/
+a:link {
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+/**  HEADER CSS STYLES  **/
+.header{
+  overflow: hidden;
+  padding: 0px 0px;
+  margin:1px
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  position: relative;
+}
+.header-name{
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Metal Mania', Oxygen;
+  font-style: normal;
+  font-size: 6em;
+  position: sticky;
+}
+.header-developer{
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Metal Mania', Oxygen;
+  font-style: normal;
+  font-size: 1.5em;
+  position: sticky;
+}
+/** HEADER LINKS CSS STYLES **/
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+  position: relative;
+}
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
+  margin:2px;
+}
+.header a.hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/** MENU BAR CSS STYLES **/
+ul {
+  list-style-type: none;;
+  overflow: hidden;
+  text-decoration: none;
+}
+.links{
+  float:top;
+  width:100%;
+  padding:0px;
+  margin-right:0px;
+  margin-left:0px;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+  color:black;
+}
+li a:active {
+  text-decoration: none;
+}
+
+/** TOP BUTTON CSS STYLES **/
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+#myBtn:hover {
+  background-color: #555;
+}
+/** IMAGE SLIDESHOW CSS STYLES **/
+img {
+  vertical-align: middle;
+}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+.mySlides-fade{
+  width:80%;
+  object-position:center;
+}
+.numbertext {          /* Number text (1/3 etc) */
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+.dot {                /* The dots/bullets/indicators */
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.active {
+  background-color: #717171;
+}
+.fade {                 /* Fading animation */
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 10s;
+  animation-name: fade;
+  animation-duration: 10s;
+}
+@-webkit-keyframes fade {
+  from {opacity: .95} 
+  to {opacity: 1}
+}
+@keyframes fade {
+  from {opacity: .95} 
+  to {opacity: 1}
+}
+/** MAIN BODY CSS STYLES **/
+#body-text{
+  float:left;
+  font-family: 'Oxygen', sans-serif;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 20px;
+  text-align: justify;
+  background-color: white;
+}
+.body-title{
+  text-align: center;
+  margin-top:20px;
+  font-size: 2em;
+  font-family: 'Oxygen', sans-serif; 
+}
+#body-text-1{
+   color:black;
+  float:left;
+  font-family: 'Oxygen', sans-serif;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 20px;
+  font-size: 1.5em;
+  text-align: justify;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+.body-title-1{
+  text-align: center;
+  margin-top:20px;
+  font-size: 2em;
+  font-family: 'Oxygen', sans-serif; 
+}
+span.referen a{
+  color:black;
+  }
+span.referen a:hover{
+  color:brown;
+  }
+.reference{
+  align-items: center;
+  float:top;
+  padding:0px;
+  margin-right:0px;
+  margin-left:0px;
+  background-color: none;
+}
+.youtube{
+  float:left;
+  height:20%;
+  width:30%;
+  margin-left:10%;
+  margin-right:10%;
+  margin-bottom: 20px;
+}
+.maps{
+  float:left;
+  height:20%;
+  width:30%;
+  margin-left:10%;
+  margin-right:10%;
+}
+/** FOOTER CSS STLES **/
+.footer{
+  width:100%;
+  height:350px;
+  background-color:black;
+}
+.monuments{
+  font-family: 'Oxygen', sans-serif;
+  text-decoration-color: white;
+  text-align:left;
+}
+.panel-footer {
+  background-color: black;
+  color: white;
+  font-family: 'Oxygen', sans-serif;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #222;
+  border-top: 0; 
+}
+.panel-footer a:link,a:visited,a:active{
+  color:white;
+}
+.panel-footer a:hover{
+  color:rgb(180, 180, 180);
+  font-size: 1.21em;
+}
+.footer-text{
+  text-decoration-color: white;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.2em;
+}
+    /** SOCIAL MEDIA BUTTONS **/
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px 2px 2px 0px;
+}
+.fa:hover {
+    opacity: 0.9;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-github {
+  background: #430297;
+  color: white;
+}
+    /** VISITOR COUNT **/
+.visitor-count{
+    text-align: center;
+}
+
+/**-------------------------------------------------------------------**/
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+  .header-name{
+    font-size: 6em;
+  }
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  .header-name{
+    font-size: 5em;
+  } 
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  .header-button{
+    display:none;
+  }
+  .header-name{
+    font-size: 4em;
+  } 
+  .header-button {
+    object-position: center;
+    margin:5px;
+  }
+  .footer-text{
+    font-size: 20px;
+  }
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  .header-button{
+   display:none;
+  }
+  .header-name{
+    font-size: 3em;
+  }
+  .header-button {
+    object-position: center;
+    margin:4px;
+  }
+  #body-text{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: auto;
+    font-size: 1em;
+  }
+  .body-title{
+    margin-top:10px;
+    font-size: 1.5em;
+  }
+  #body-text-1{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: auto;
+    font-size: 1.1em;
+  }
+  .body-title-1{
+    margin-top:10px;
+    font-size: 1.5em; 
+  }
+  .panel-footer section {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .panel-footer section:nth-child(3) {
+    margin-bottom: 0; 
+  }
+  .panel-footer section hr {
+    width: 50%;
+  }
+  .footer-text{
+    font-size: 18px;
+  }
+}
+
+/*******END OF CSS STLESSHEET ********/
+/***      BY : ROHIT KUMAR         ***/

@@ -20,7 +20,6 @@
 	<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <br />
-
 <br />
 
 Hi,I'm a Web Developer.Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.
@@ -29,8 +28,8 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 - 🔭 I’m currently doing B Tech/CSE from ABESEC.✌
 - 🌱 I’m currently learning HTML,CSS & JavaScript.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- 💬 For any Queries [**Mail Me**]( mailto:r.kXXXXXX@gmail.com).
-- 💬 Ask me about anything [**here!**](https://github.com/rk2962002/rk2962002/issues)
+- 💬 For any Queries [**https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg**]( mailto:r.kXXXXXX@gmail.com).
+- 💬 Ask me about anything [**here !**](https://github.com/rk2962002/rk2962002/issues)
 
 
 ### Languages and Tools:

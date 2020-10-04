@@ -1,4 +1,4 @@
-## Hello World 👋 It's [Rohit Kumar!](https://rk2962002.github.io/rk2962002/page1.html)
+# Hello World 👋 It's [Rohit Kumar!](https://rk2962002.github.io/rk2962002/page1.html)
 
 <br>
 <a href="https://github.com/rk2962002">
@@ -22,7 +22,7 @@
 
 Hi,I'm a Web Developer.Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.
 
-### Talking about Personal Stuffs:
+## Talking about Personal Stuffs:
 
 - 🔭 I’m currently doing B Tech/CSE from ABESEC.✌
 - 🌱 I’m currently learning HTML,CSS & JavaScript.✌
@@ -30,7 +30,7 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 - 💬 For any Queries [**here !**]( mailto:r.k2962002@gmail.com).
 - 💬 Ask me about anything [**here !**](https://github.com/rk2962002/rk2962002/issues)
 
-### Languages and Tools:
+## Languages and Tools:
 
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
@@ -51,11 +51,11 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 </code>
 
 
-### My Projects:
+## My Projects:
 
 - Website on [Monuments of India !](https://rk2962002.github.io/monuments/monuments.html).✌
 
-### Github Statistics:
+## Github Statistics:
 
 ![rk2962002's github stats](https://github-readme-stats.vercel.app/api?username=rk2962002&show_icons=true&hide_border=true)
 

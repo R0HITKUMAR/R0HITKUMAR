@@ -33,7 +33,6 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 - 💬 Ask me about anything [**here!**](https://github.com/rk2962002/rk2962002/issues)
 
 
-
 ### Languages and Tools:
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
@@ -52,6 +51,8 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 <code>
 	<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>
+
+
 
 ### Github Statistics :
 

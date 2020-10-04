@@ -41,9 +41,8 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 
 **My Projects :**
 
-- Website on [Monuments of India !](https://rk2962002.github.io/monuments/monuments.html).✌
+- 📫 Website on [Monuments of India !](https://rk2962002.github.io/monuments/monuments.html).✌
 
-**Github Statistics :**
 
 ![rk2962002's github stats](https://github-readme-stats.vercel.app/api?username=rk2962002&show_icons=true&hide_border=true)
 

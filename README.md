@@ -52,9 +52,7 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 	<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>
 
-
-
-### Github Statistics :
+### Github Statistics:
 
 ![rk2962002's github stats](https://github-readme-stats.vercel.app/api?username=rk2962002&show_icons=true&hide_border=true)
 

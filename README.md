@@ -5,7 +5,7 @@
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://www.facebook.com/profile.php?id=100040466752176">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://twitter.com/rk2962002">
+<a href="https://twitter.com/rk__rohitkumar">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/rohit-kumar-28494415a/">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>

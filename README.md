@@ -1,20 +1,23 @@
 ### Hello World 👋 It's [Rohit Kumar!](bit.ly/Rohit-kumar)
 
 <br/>
+<a href="https://github.com/rk2962002">
+	<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 <a href="https://www.facebook.com/profile.php?id=100040466752176">
-<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+	<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/rk2962002">
-<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+	<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rohit-kumar-28494415a/">
-<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+	<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/rk__rohitkumar/">
-<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+	<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://api.whatsapp.com/send?phone=+919084950XXX">
-<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+<a href="https://api.whatsapp.com/send?phone=+919084950">
+	<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <br />
 
@@ -26,7 +29,7 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 - 🔭 I’m currently doing B Tech/CSE from ABESEC.✌
 - 🌱 I’m currently learning HTML,CSS & JavaScript.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- 💬 For any Queries [*Mail Me*](mailto: r.kXXXXXX@gmail.com).
+- 💬 For any Queries [**Mail Me**]( mailto:r.kXXXXXX@gmail.com).
 - 💬 Ask me about anything [**here!**](https://github.com/rk2962002/rk2962002/issues)
 
 
@@ -52,7 +55,7 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 	<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>
 
-**Github Statistics :**
+## Github Statistics :
 
 ![rk2962002's github stats](https://github-readme-stats.vercel.app/api?username=rk2962002&show_icons=true&hide_border=true)
 

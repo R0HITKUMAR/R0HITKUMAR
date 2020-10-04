@@ -1,6 +1,6 @@
 # Hello World 👋 It's [Rohit Kumar!](https://rk2962002.github.io/rk2962002/page1.html)
 
-<br>
+<br/>
 <a href="https://github.com/rk2962002">
 	<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -19,7 +19,8 @@
 <a href="https://api.whatsapp.com/send?phone=+919084950">
 	<img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<br>
+<br/>
+<br/>
 Hi,I'm a Web Developer.Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.
 
 ## Talking about Personal Stuffs:

@@ -22,10 +22,10 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently doing B Tech/CSE from ABESEC.✌
-- 🌱 I’m currently learning HTML,CSS & JavaScript.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
+- 🎓 I'm currently a Sophomore at ABES Engineering College,Ghaziabad.✌
+- 🔎 I’m currently learning HTML,CSS & JavaScript.✌
 - 📫 Website on [Monuments of India](https://rk2962002.github.io/monuments/monuments.html).✌
+- 💬 How to reach me: Any of the Social-Media Platform 
 - 💬 For any Queries [**here !**]( mailto:r.k2962002@gmail.com).
 - 💬 Ask me about anything [**here !**](https://github.com/rk2962002/rk2962002/issues)
 

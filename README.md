@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Rohit Kumar!](bit.ly/Rohit-kumar)
+### Hello World 👋 It's [Rohit Kumar!](https://rk2962002.github.io/rk2962002/page1.html)
 
 <br/>
 <a href="https://github.com/rk2962002">

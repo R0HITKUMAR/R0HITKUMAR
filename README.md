@@ -7,13 +7,13 @@
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://bit.ly/rk-twitter">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://twitter.com/rk-linkedIN">
+<a href="https://bit.ly/rk-linkedIN">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://bit.ly/rk-instagram">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://discord.gg/F6X7QE2">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
-<a href="https://api.whatsapp.com/send?phone=+919084950">
+<a href="https://bit.ly/rk--whatsapp">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
 
 <br />

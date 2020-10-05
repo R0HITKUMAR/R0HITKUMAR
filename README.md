@@ -11,9 +11,9 @@
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/rk__rohitkumar/">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.instagram.com/rk__rohitkumar/">
-<img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
 <a href="https://discord.gg/F6X7QE2">
+<img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
+<a href="https://api.whatsapp.com/send?phone=+919084950">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
 
 <br />

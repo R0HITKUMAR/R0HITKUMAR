@@ -1,9 +1,9 @@
-## Hello World 👋 It's [Rohit Kumar!](https://rk2962002.github.io/rk2962002/page1.html)
+## Hello World 👋 It's [Rohit Kumar!](https://bit.ly/rk-website)
 
 <br/>
-<a href="https://github.com/rk2962002">
+<a href="https://bit.ly/rk-github">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://www.facebook.com/profile.php?id=100040466752176">
+<a href="">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://twitter.com/rk__rohitkumar">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>

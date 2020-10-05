@@ -3,13 +3,13 @@
 <br/>
 <a href="https://bit.ly/rk-github">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="">
+<a href="https://bit.ly/rk-facebook">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://twitter.com/rk__rohitkumar">
+<a href="https://bit.ly/rk-twitter">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/rohit-kumar-28494415a/">
+<a href="https://twitter.com/rk-linkedIN">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/rk__rohitkumar/">
+<a href="https://bit.ly/rk-instagram">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://discord.gg/F6X7QE2">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
@@ -26,7 +26,7 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 
 - 🎓 I'm currently a Sophomore at ABES Engineering College,Ghaziabad.✌
 - 🔎 I’m currently learning HTML,CSS & JavaScript.✌
-- 📫 Website on [Monuments of India](https://rk2962002.github.io/monuments/monuments.html).✌
+- 📫 Website on [Monuments of India](https://bit.ly/monuments-india).✌
 - 💬 Mail me  [**here !**]( mailto:r.k2962002@gmail.com).
 - 💬 Ask me about anything [**here !**](https://github.com/rk2962002/rk2962002/issues)
 - 💬 How to reach me: Any of the Social-Media Platform 

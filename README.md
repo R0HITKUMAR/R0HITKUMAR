@@ -42,6 +42,6 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![rk2962002's github stats](https://github-readme-stats.vercel.app/api?username=rk2962002&show_icons=true&hide_border=true)
+![rk2962002's github stats](https://github-readme-stats.vercel.app/api?username=rk2962002&show_icons=true&theme=gradient)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk2962002&layout=compact)

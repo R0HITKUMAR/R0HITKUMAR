@@ -1,4 +1,4 @@
-## Hello World 👋 It's [Rohit Kumar!](https://bit.ly/rk-website)
+## Hello World 👋 It's [Rohit Kumar!](https://bit.ly/RK-website)
 
 <br/>
 <a href="https://bit.ly/RK-github">

@@ -325,31 +325,15 @@ span.referen a:hover{
 }
 
 /********** Medium devices only **********/
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 801px) and (max-width: 1199px) {
   .header-name{
     font-size: 5em;
   } 
 }
 
-/********** Small devices only **********/
-@media (min-width: 768px) and (max-width: 991px) {
-  .header-button{
-    display:none;
-  }
-  .header-name{
-    font-size: 4em;
-  } 
-  .header-button {
-    object-position: center;
-    margin:5px;
-  }
-  .footer-text{
-    font-size: 20px;
-  }
-}
 
-/********** Extra small devices only **********/
-@media (max-width: 767px) {
+/********** Small devices only **********/
+@media (max-width: 800px) {
   .header-button{
    display:none;
   }
@@ -392,6 +376,10 @@ span.referen a:hover{
   }
   .footer-text{
     font-size: 18px;
+  }
+  .remove{
+    display:none;
+    align-items: center;
   }
 }
 

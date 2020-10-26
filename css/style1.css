@@ -247,16 +247,6 @@ span.referen a:hover{
   margin-right:10%;
 }
 /** FOOTER CSS STLES **/
-.footer{
-  width:100%;
-  height:350px;
-  background-color:black;
-}
-.monuments{
-  font-family: 'Oxygen', sans-serif;
-  text-decoration-color: white;
-  text-align:left;
-}
 .panel-footer {
   background-color: black;
   color: white;
@@ -266,6 +256,7 @@ span.referen a:hover{
   padding-bottom: 10px;
   background-color: #222;
   border-top: 0; 
+  align-content: all;
 }
 .panel-footer a:link,a:visited,a:active{
   color:white;
@@ -274,7 +265,8 @@ span.referen a:hover{
   color:rgb(180, 180, 180);
   font-size: 1.21em;
 }
-.footer-text{
+
+.text-center{
   text-decoration-color: white;
   font-family: 'Oxygen', sans-serif;
   font-size: 1.2em;
@@ -286,10 +278,11 @@ span.referen a:hover{
   width: 50px;
   text-align: center;
   text-decoration: none;
-  margin: 0px 2px 2px 0px;
+  margin: 0px;
+  float: left;
 }
 .fa:hover {
-    opacity: 0.9;
+    opacity: 1.0;
 }
 .fa-facebook {
   background: #3B5998;
@@ -375,21 +368,8 @@ span.referen a:hover{
     width: 50%;
   }
   .footer-text{
-    font-size: 16px;
+    font-size: 18px;
   }
-  .fa {
-  padding: 10px;
-  font-size: 20px;
-  width: 40px;
-  text-align: center;
-  text-decoration: none;
-  margin: 0px 1px 1px 0px;
-}
-.about {
-  
-  font-size: 20px;
- 
-}
   .remove{
     display:none;
     align-items: center;

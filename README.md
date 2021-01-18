@@ -11,7 +11,7 @@
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://connect.rohitkumar.online/instagram">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://discord.gg/F6X7QE2">
+<a href="https://connect.rohitkumar.online/discord">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
 <a href="https://connect.rohitkumar.online/whatapp">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>

@@ -31,7 +31,7 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 - 💬 Mail me  [**here !**]( mailto:r.k2962002@gmail.com).
 - 💬 Ask me about anything [**here !**](https://github.com/rk2962002/rk2962002/issues)
 - 💬 How to reach me: Any of the Social-Media Platform 
-- 💬 ![](https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar)
+- ![](https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar)
 
 <br />
 

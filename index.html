@@ -760,7 +760,7 @@ body{font-family: Didact Gothic;}blockquote{border-color: #7d5bd9;}div[submit-su
 			</div>
 			<div class="second-element mbr-col-md-12 mbr-col-sm-12 mbr-column mbr-flex mbr-jc-c mbr-col-lg-6 mbr-m-auto" data-form-type="formoid">
 				<div class="form-block" data-form-type="formoid">
-					<form class="mbr-form mbr-jc-c mbr-flex mbr-column i-amphtml-form contact-form" id="form" method="post" target="_top" action="contact.php" data-form-title="8b Form" novalidate="">
+					<form class="mbr-form mbr-jc-c mbr-flex mbr-column i-amphtml-form" method="post" target="_top" action-xhr="https://f.8b.com/api/sites/220378/forms/data/" data-form-title="8b Form" novalidate="">
 						
 						<div submit-success="">
 							<template data-form-alert="" type="amp-mustache"></template>
@@ -769,16 +769,18 @@ body{font-family: Didact Gothic;}blockquote{border-color: #7d5bd9;}div[submit-su
 							<template data-form-alert="" type="amp-mustache"></template>
 						</div>
 						<div class="fieldset">
-							<div class="field">
-								<input type="text" name="cf_name" data-form-field="Name" placeholder="Enter Your Name" required="" id="form[data][0][1]-contacts2-j">
+							<div class="field" data-for="form[data][0][1]">
+								<input type="hidden" name="form[data][0][0]" value="First Name" id="form[data][0][0]-contacts2-j" data-form-field="">
+								<input type="text" name="form[data][0][1]" data-form-field="Name" placeholder="Enter Your Name" required="" id="form[data][0][1]-contacts2-j">
+								</div>
+							
+							<div class="field" data-for="form[data][2][1]">
+								<input type="hidden" name="form[data][1][0]" value="E-mail" id="form[data][2][0]-contacts2-j" data-form-field="">
+								<input type="email" name="form[data][1][1]" data-form-field="E-mail" placeholder="E-mail Address" required="" id="form[data][2][1]-contacts2-j">
 							</div>
 							
-							<div class="field">
-								<input type="email" name="cf_email" data-form-field="E-mail" placeholder="E-mail Address" required="" id="form[data][2][1]-contacts2-j">
-							</div>
-							
-							<div class="text-field">
-								<input type="hidden" name="cf_message" value="Message" id="form[data][4][0]-contacts2-j" data-form-field="">
+							<div class="text-field" data-for="form[data][4][1]">
+								<input type="hidden" name="form[data][2][0]" value="Message" id="form[data][4][0]-contacts2-j" data-form-field="">
 								<textarea name="form[data][2][1]" rows="7" data-form-field="Message" placeholder="Fill Google Form (Link Attached Above) Instead of This Form" id="form[data][4][1]-contacts2-j"></textarea>
 							</div>
 						</div>

@@ -1,19 +1,19 @@
-## Hello World 👋 It's [Rohit Kumar!](https://www.rohitkumar.online)
+## Hello! World 👋 It's [Rohit Kumar!](https://www.rohitkumar.online)
 
 <br/>
-<a href="https://connect.rohitkumar.online/github">
+<a href="https://rebrand.ly/rk/rk/github">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://connect.rohitkumar.online/facebook">
+<a href="https://rebrand.ly/rk/facebook">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://connect.rohitkumar.online/twitter">
+<a href="https://rebrand.ly/rk/twitter">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://connect.rohitkumar.online/linkedin">
+<a href="https://rebrand.ly/rk/linkedin">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://connect.rohitkumar.online/instagram">
+<a href="https://rebrand.ly/rk/instagram">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://connect.rohitkumar.online/discord">
+<a href="https://rebrand.ly/rk/discord">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
-<a href="https://connect.rohitkumar.online/whatapp">
+<a href="https://rebrand.ly/rk/whatapp">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
 
 <br />

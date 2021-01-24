@@ -1,6 +1,5 @@
-<div style="text-align:center"><img src="readme_files/TOP.svg" alt="Rohit Kumar"><br>
-  [Rohit Kumar](https://www.rohitkumar.online)<div>
-<center>
+<div style="text-align:center"><img src="readme_files/TOP.svg" alt="Rohit Kumar"><div>
+
 <a href="https://rebrand.ly/rk/rk/github">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://rebrand.ly/rk/facebook">
@@ -31,7 +30,7 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 - 💬 Mail me  [**here !**]( mailto:r.k2962002@gmail.com).
 - 💬 Ask me about anything [**here !**](https://github.com/rk2962002/rk2962002/issues)
 - 💬 How to reach me: Any of the Social-Media Platform <br><br>
-![](https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar)
+
 <br />
 
 **Languages and Tools:**
@@ -46,3 +45,19 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 ![rk2962002's github stats](https://github-readme-stats.vercel.app/api?username=rk-rohitkumar&show_icons=true&theme=Gradient)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-rohitkumar&layout=compact)
+
+<hr>
+<p align="center" style="background-color:Tomato;">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <a href="https://twitter.com/jayehernandez_" alt="Twitter">
+    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+   <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin">
+     <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+   <a href="mailto:jaye@jayehernandez.com" alt="Contact me">
+     <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+   <a href="https://jayehernandez.com" alt="My site">
+     <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p><br>
+    ![](https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar)
+</p>
+<div style="text-align:center"><img src="readme_files/BOTTOM.svg" alt="Rohit Kumar">

@@ -1,7 +1,6 @@
-<img src="readme_files/TOP.svg" alt="Rohit Kumar">
-## Hello! World 👋 It's [Rohit Kumar!](https://www.rohitkumar.online)
-
-<br/>
+<div style="text-align:center"><img src="readme_files/TOP.svg" alt="Rohit Kumar"><br>
+  [Rohit Kumar](https://www.rohitkumar.online)<div>
+<center>
 <a href="https://rebrand.ly/rk/rk/github">
 <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://rebrand.ly/rk/facebook">

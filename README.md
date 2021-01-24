@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="readme_files/TOP.svg" alt="Rohit Kumar"><div>
+<div style="text-align:center"><img src="readme_files/TOP.PNG" alt="Rohit Kumar"><div>
 Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.
 
 **Talking about Personal Stuffs:**
@@ -49,4 +49,4 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
   </p>
 </p>
 
-<div style="text-align:center"><img src="readme_files/BOTTOM.svg" alt="Rohit Kumar">
+<div style="text-align:center"><img src="readme_files/BOTTOM.PNG" alt="Rohit Kumar">

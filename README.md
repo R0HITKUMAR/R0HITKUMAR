@@ -47,7 +47,7 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-rohitkumar&layout=compact)
 
 <hr>
-<p align="center" style="background-color:Tomato;">
+<p align="center" style="background-color:white;">
   <i>Let's connect and chat! Open to anything under the sun.</i>
   <a href="https://twitter.com/jayehernandez_" alt="Twitter">
     <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>

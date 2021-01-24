@@ -59,7 +59,7 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
     </p>
   <p align="center">
     <a href="http://hits.dwyl.com/rk-rohitkumar/rk-rohitkumar">
-      <img align="center" src="http://hits.dwyl.com/rk-rohitkumar/rk-rohitkumar.svg">
+      <img align="center" src="http://hits.dwyl.com/rk-rohitkumar/ rk-rohitkumar.svg">
     </a>
   </p>
 </p>

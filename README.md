@@ -1,11 +1,5 @@
 <div style="text-align:center"><img src="readme_files/TOP.svg" alt="Rohit Kumar"><div>
-
-
-<br />
-<br />
-
 Hi,I'm a Web Developer.Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.
-
 
 **Talking about Personal Stuffs:**
 

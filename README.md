@@ -27,7 +27,15 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
 <hr>
 <div style="text-align:center;"><i>Let's connect and chat! Open to anything under the sun.</i><div><br>
   <div style="text-align:center;background-color:white;">
-  <a href="https://rebrand.ly/rk/github">
+ <br></div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-rohitkumar&layout=compact)
+  ![Top Langs](https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar)
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    <a href="https://rebrand.ly/rk/github">
   <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
   <a href="https://rebrand.ly/rk/facebook">
   <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
@@ -40,7 +48,14 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
   <a href="https://rebrand.ly/rk/discord">
   <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
   <a href="https://rebrand.ly/rk/whatapp">
-  <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a><br></div>
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frk-rohitkumar&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Count&edge_flat=false)](https://hits.seeyoufarm.com)
+  <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
+  </p>
+
+  <p align="center">
+    <a href="http://hits.dwyl.com/rk-rohitkumar/rk-rohitkumar">
+      <img align="center" src="http://hits.dwyl.com/rk-rohitkumar/rk-rohitkumar.svg">
+    </a>
+  </p>
+</p>
 
 <div style="text-align:center"><img src="readme_files/BOTTOM.svg" alt="Rohit Kumar">

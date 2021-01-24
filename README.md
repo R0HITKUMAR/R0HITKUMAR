@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="readme_files/TOP.png" alt="Rohit Kumar"><div>
+<div style="text-align:center"><a href="https://www.rohitkumar.online"><img src="readme_files/TOP.png" alt="Rohit Kumar"></a><div>
 Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.
 
 **Talking about Personal Stuffs:**
@@ -58,7 +58,7 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
   <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>&nbsp;&nbsp;
     </p>
   <p align="center">
-    <a href=" ">
+    <a href="https://rebrand.ly/rk/github">
       <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar">
     </a>
   </p>

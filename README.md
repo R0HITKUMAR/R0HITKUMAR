@@ -26,8 +26,27 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">
-    <a href="https://rebrand.ly/rk/github">
-  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />&nbsp;</a>
+   <a href="https://rebrand.ly/rk/github">
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/r_k2962002">
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/hackerrank.svg" /></a>&nbsp;
+  <a href="https://www.hackerearth.com/@r_k2962002">
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/hackerearth.svg" /></a>&nbsp;
+  <a href="https://codeforces.com/profile/r_k2962002">
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/codeforces.svg" /></a>&nbsp;
+  <a href="https://www.codechef.com/users/r_k2962002">
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/codechef.svg" /></a>&nbsp;
+  <a href="https://leetcode.com/r_k2962002/">
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/leetcode.svg" /></a>&nbsp;
+  <a href="https://stackoverflow.com/users/13761059/rk-rohitkumar">
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/stackoverflow.svg" /></a>&nbsp;
+    <a href="https://auth.geeksforgeeks.org/user/rk2962002/profile">
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/geeksforgeeks.svg" /></a>&nbsp;
+
+    
+    
+  <a href="mailto:r.k2962002@gmail.com">
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/gmail.svg" />&nbsp;</a>
   <a href="https://rebrand.ly/rk/facebook">
   <img alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />&nbsp;</a>
   <a href="https://rebrand.ly/rk/twitter">

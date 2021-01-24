@@ -1,3 +1,4 @@
+<img src="readme_files/TOP.svg" alt="Rohit Kumar">
 ## Hello! World 👋 It's [Rohit Kumar!](https://www.rohitkumar.online)
 
 <br/>

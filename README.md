@@ -23,24 +23,23 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
 ![rk2962002's github stats](https://github-readme-stats.vercel.app/api?username=rk-rohitkumar&show_icons=true&theme=Gradient)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-rohitkumar&layout=compact)
-<hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">
     <a href="https://rebrand.ly/rk/github">
-  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />&nbsp;</a>
   <a href="https://rebrand.ly/rk/facebook">
-  <img alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+  <img alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />&nbsp;</a>
   <a href="https://rebrand.ly/rk/twitter">
-  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />&nbsp;</a>
   <a href="https://rebrand.ly/rk/linkedin">
-  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;</a>
   <a href="https://rebrand.ly/rk/instagram">
-  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />&nbsp;</a>
   <a href="https://rebrand.ly/rk/discord">
-  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />&nbsp;</a>
   <a href="https://rebrand.ly/rk/whatapp">
-  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />&nbsp;</a>
   </p>
 
   <p align="center">

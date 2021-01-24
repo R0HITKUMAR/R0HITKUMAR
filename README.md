@@ -20,9 +20,7 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![rk2962002's github stats](https://github-readme-stats.vercel.app/api?username=rk-rohitkumar&show_icons=true&theme=Gradient)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-rohitkumar&layout=compact)
+![rk2962002's github stats](https://github-readme-stats.vercel.app/api?username=rk-rohitkumar&show_icons=true&theme=Gradient)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-rohitkumar&layout=compact)
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">

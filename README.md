@@ -41,7 +41,7 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
   <a href="https://stackoverflow.com/users/13761059/rk-rohitkumar">
   <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/stackoverflow.svg" /></a>&nbsp;&nbsp;
     <a href="https://auth.geeksforgeeks.org/user/rk2962002/profile">
-  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/geeksforgeeks.svg" /></a>&nbsp;&nbsp;&nbsp;|;&nbsp;&nbsp;&nbsp; 
+  <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/geeksforgeeks.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="mailto:r.k2962002@gmail.com">
   <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/gmail.svg" /</a>&nbsp;&nbsp;
   <a href="https://rebrand.ly/rk/facebook">

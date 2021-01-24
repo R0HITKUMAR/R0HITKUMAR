@@ -58,8 +58,7 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
   <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>&nbsp;&nbsp;
     </p>
   <p align="center">
-    <a href="http://hits.dwyl.com/rk-rohitkumar/rk-rohitkumar">
-      <img align="center" src="http://hits.dwyl.com/rk-rohitkumar/rk-rohitkumar.svg">
+    ![](https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar)
     </a>
   </p>
 </p>

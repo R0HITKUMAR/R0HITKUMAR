@@ -28,7 +28,8 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 
 <hr>
 <p align="center" style="background-color:white;">
-  <i>Let's connect and chat! Open to anything under the sun.</i><br>
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <p align="center">
   <a href="https://rebrand.ly/rk/github">
   <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
   <a href="https://rebrand.ly/rk/facebook">
@@ -43,6 +44,6 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
   <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
   <a href="https://rebrand.ly/rk/whatapp">
   <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a><br>
-    ![](https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar)
+    ![](https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar)</p>
 </p>
 <div style="text-align:center"><img src="readme_files/BOTTOM.svg" alt="Rohit Kumar">

@@ -1,19 +1,5 @@
 <div style="text-align:center"><img src="readme_files/TOP.svg" alt="Rohit Kumar"><div>
 
-<a href="https://rebrand.ly/rk/rk/github">
-<img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://rebrand.ly/rk/facebook">
-<img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://rebrand.ly/rk/twitter">
-<img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://rebrand.ly/rk/linkedin">
-<img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://rebrand.ly/rk/instagram">
-<img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://rebrand.ly/rk/discord">
-<img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
-<a href="https://rebrand.ly/rk/whatapp">
-<img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
 
 <br />
 <br />
@@ -48,16 +34,21 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 
 <hr>
 <p align="center" style="background-color:white;">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-  <a href="https://twitter.com/jayehernandez_" alt="Twitter">
-    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-   <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin">
-     <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-   <a href="mailto:jaye@jayehernandez.com" alt="Contact me">
-     <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-   <a href="https://jayehernandez.com" alt="My site">
-     <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p><br>
+  <i>Let's connect and chat! Open to anything under the sun.</i><br>
+  <a href="https://rebrand.ly/rk/github">
+  <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+  <a href="https://rebrand.ly/rk/facebook">
+  <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+  <a href="https://rebrand.ly/rk/twitter">
+  <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a href="https://rebrand.ly/rk/linkedin">
+  <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://rebrand.ly/rk/instagram">
+  <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <a href="https://rebrand.ly/rk/discord">
+  <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
+  <a href="https://rebrand.ly/rk/whatapp">
+  <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a><br>
     ![](https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar)
 </p>
 <div style="text-align:center"><img src="readme_files/BOTTOM.svg" alt="Rohit Kumar">

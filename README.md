@@ -1,17 +1,15 @@
 <div style="text-align:center"><img src="readme_files/TOP.svg" alt="Rohit Kumar"><div>
-Hi,I'm a Web Developer.Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.
+Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.
 
 **Talking about Personal Stuffs:**
 
 - 🎓 I'm currently a Sophomore at ABES Engineering College,Ghaziabad.✌
-- 🔎 I’m currently learning HTML,CSS & JavaScript.✌
+- 🔎 I’m currently learning Python,HTML,CSS & JavaScript.✌
 - 📫 Website on [Monuments of India](https://moi.rohitkumar.online).✌
 - 📫 Old [Portfolio Website](https://old.rohitkumar.online).✌
 - 💬 Mail me  [**here !**]( mailto:r.k2962002@gmail.com).
 - 💬 Ask me about anything [**here !**](https://github.com/rk2962002/rk2962002/issues)
-- 💬 How to reach me: Any of the Social-Media Platform <br><br>
-
-<br />
+- 💬 How to reach me: Any of the Social-Media Platform <br>
 
 **Languages and Tools:**
 
@@ -27,9 +25,9 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-rohitkumar&layout=compact)
 
 <hr>
-<p align="center" style="background-color:white;">
+<p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
-  <p align="center">
+  <p align="center" style="background-color:white;">
   <a href="https://rebrand.ly/rk/github">
   <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
   <a href="https://rebrand.ly/rk/facebook">
@@ -44,6 +42,6 @@ Hi,I'm a Web Developer.Apart from that I love to learn about new technologies an
   <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
   <a href="https://rebrand.ly/rk/whatapp">
   <img align="left" alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a><br>
-    ![](https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar)</p>
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frk-rohitkumar&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Count&edge_flat=false)](https://hits.seeyoufarm.com)</p>
 </p>
 <div style="text-align:center"><img src="readme_files/BOTTOM.svg" alt="Rohit Kumar">

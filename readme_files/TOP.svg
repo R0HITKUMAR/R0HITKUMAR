@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg width="1140" height="342" viewBox="4.57 0 1135.43 231.656" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
-  <g clip-path="url(#clip0)">
-    <path d="M 347.265 184.857 C 200.065 142.656 17.16 127.916 -28.84 180.666 L -56 329.039 L -56 -109 L 1163.5 -109 L 1180.5 223.959 C 1332.07 105.943 1002.5 114.402 826.224 180.28 C 649.948 246.158 494.465 227.056 347.265 184.857 Z" fill="url(#paint0_linear)" style=""/>
-    <text style="fill: rgb(255, 255, 255); font-family: Slackey; font-size: 40px; letter-spacing: -1.3px; word-spacing: 3.8px; white-space: pre;" x="11.753" y="49.374">Hello World</text>
-    <text style="fill: rgb(255, 255, 255); font-family: Slackey; font-size: 40px; white-space: pre;" x="59.416" y="98.65">I am</text>
-    <text x="225.258" y="216.77" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
-    <text x="273.574" y="-15.017" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;">Enter your text here.</text>
-    <text style="fill: rgb(51, 51, 51); font-family: &quot;Sonsie One&quot;; font-size: 28px; white-space: pre;" x="191.306" y="36.564"> </text>
-    <text x="216.77" y="51.251" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
-    <text style="fill: rgb(251, 250, 250); font-family: &quot;Roboto Slab&quot;; font-size: 89px; white-space: pre;" x="252.416" y="141.312" dx="0 0 0 0 0 0 0 2.612" dy="0 0 0 0 0 0 0 -0.653">ROHIT KUMAR</text>
+<svg width="1140" height="342" viewBox="7.822 111.854 1135.429 224.502" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <g transform="matrix(1, 0, 0, 0.98811, 6.901003, 110.50425)" style="">
+    <g>
+      <g clip-path="url(#clip0)" transform="matrix(1, 0, 0, 1, 1.300647, -0.650294)">
+        <path d="M 355.078 174.315 C 207.878 132.114 24.973 117.374 -21.027 170.124 L -48.187 318.497 L -48.187 -119.542 L 1171.313 -119.542 L 1188.313 213.417 C 1339.883 95.401 1010.313 103.86 834.037 169.738 C 657.761 235.616 502.278 216.514 355.078 174.315 Z" fill="url(#paint0_linear)" style=""/>
+        <text style="fill: rgb(255, 255, 255); font-family: Slackey; font-size: 40px; letter-spacing: -1.3px; word-spacing: 3.8px; white-space: pre;" x="11.753" y="49.374">Hello World</text>
+        <text style="fill: rgb(255, 255, 255); font-family: Slackey; font-size: 40px; white-space: pre;" x="59.416" y="98.65">I am</text>
+        <text x="225.258" y="216.77" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
+        <text x="273.574" y="-15.017" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;">Enter your text here.</text>
+        <text style="fill: rgb(51, 51, 51); font-family: &quot;Sonsie One&quot;; font-size: 28px; white-space: pre;" x="191.306" y="36.564"> </text>
+        <text x="216.77" y="51.251" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
+        <text style="fill: rgb(251, 250, 250); font-family: &quot;Roboto Slab&quot;; font-size: 89px; white-space: pre;" x="252.416" y="141.312" dx="0 0 0 0 0 0 0 2.612" dy="0 0 0 0 0 0 0 -0.653">ROHIT KUMAR</text>
+      </g>
+    </g>
   </g>
   <defs>
-    <linearGradient id="paint0_linear" x1="1214" y1="2.99996" x2="-41" y2="423" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 0.844003, 0, -17.003613)">
+    <linearGradient id="paint0_linear" x1="1214" y1="2.99996" x2="-41" y2="423" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 0.844003, 7.812584, -27.545727)">
       <stop stop-color="#6A4C91"/>
       <stop offset="1" stop-color="#6DA2BF"/>
     </linearGradient>

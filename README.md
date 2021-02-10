@@ -1,12 +1,12 @@
-<div style="text-align:center"><a href="https://www.rohitkumar.online"><img src="readme_files/TOP.png" alt="Rohit Kumar"></a><div>
+<div style="text-align:center"><a href="https://www.rohitkumar.ml"><img src="readme_files/TOP.png" alt="Rohit Kumar"></a><div>
 Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.
 
 **Talking about Personal Stuffs:**
 
 - 🎓 I'm currently a Sophomore at ABES Engineering College,Ghaziabad.✌
 - 🔎 I’m currently learning Python,HTML,CSS & JavaScript.✌
-- 📫 Website on [Monuments of India](https://moi.rohitkumar.online).✌
-- 📫 Old [Portfolio Website](https://old.rohitkumar.online).✌
+- 📫 Website on [Monuments of India](https://www.monumentsofindia.ml).✌
+- 📫 Old [Portfolio Website](https://www.rohit-kumar.ml).✌
 - 💬 Mail me  [**here !**]( mailto:r.k2962002@gmail.com).
 - 💬 Ask me about anything [**here !**](https://github.com/rk2962002/rk2962002/issues)
 - 💬 How to reach me: Any of the Social-Media Platform <br>

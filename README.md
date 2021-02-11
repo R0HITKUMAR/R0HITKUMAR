@@ -40,23 +40,23 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
   <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/stackoverflow.svg" /></a>&nbsp;&nbsp;
     <a href="https://auth.geeksforgeeks.org/user/rk2962002/profile">
   <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/geeksforgeeks.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="mailto:r.k2962002@gmail.com">
+  <a href="https://iamrohit/mail">
   <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/gmail.svg" /</a>&nbsp;&nbsp;
-  <a href="https://rebrand.ly/rk/facebook">
+  <a href="https://iamrohit/fb">
   <img alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>&nbsp;&nbsp;
-  <a href="https://rebrand.ly/rk/twitter">
+  <a href="https://iamrohit/twitter">
   <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>&nbsp;&nbsp;
-  <a href="https://rebrand.ly/rk/linkedin">
+  <a href="https://iamrohit/linkedin">
   <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;
-  <a href="https://rebrand.ly/rk/instagram">
+  <a href="https://iamrohit/insta">
   <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>&nbsp;&nbsp;
-  <a href="https://rebrand.ly/rk/discord">
+  <a href="https://iamrohit/discord">
   <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>&nbsp;&nbsp;
-  <a href="https://rebrand.ly/rk/whatapp">
+  <a href="https://iamrohit/whatapp">
   <img  alt="developer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>&nbsp;&nbsp;
     </p>
   <p align="center">
-    <a href="https://rebrand.ly/rk/github">
+    <a href="https://iamrohit/github">
       <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar">
     </a>
   </p>

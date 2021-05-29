@@ -20,7 +20,8 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![rk2962002's github stats](https://github-readme-stats.vercel.app/api?username=rk-rohitkumar&show_icons=true&theme=dark&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-rohitkumar&theme=dark)](https://github.com/rk-rohitkumar/github-readme-stats)
+![rk2962002's github stats](https://github-readme-stats.vercel.app/api?username=R0HITKUMAR&show_icons=true&theme=dark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0HITKUMAR&theme=dark)](https://github.com/R0HITKUMAR/github-readme-stats)
 <p align="center" style="background-color:white;">
   <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">
@@ -57,7 +58,7 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
     </p>
   <p align="center">
     <a href="https://imrohit.ml/github">
-      <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=rk-rohitkumar.rk-rohitkumar">
+      <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=R0HITKUMAR.R0HITKUMAR">
     </a>
   </p>
 </p>

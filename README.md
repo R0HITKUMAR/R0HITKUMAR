@@ -27,6 +27,7 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
   <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">
     <a href="https://imrohit.ml/github">
+     <img src="https://www.webfreecounter.com/hit.php?id=gefqkkx&nd=6&style=1" border="0" alt="Visitor Number"><br>
       <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=R0HITKUMAR.R0HITKUMAR">
     </a>
   </p>

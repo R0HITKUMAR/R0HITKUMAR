@@ -3,7 +3,7 @@
 Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.
 
 **Talking about Personal Stuffs:**
-
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=R0HITKUMAR&theme=dark" align="right">
 - 🎓 I'm currently a Sophomore at ABES Engineering College,Ghaziabad.✌
 - 🔎 I’m currently learning Python,HTML,CSS & JavaScript.✌
 - 💬 Mail me  [**here !**]( mailto:r.k2962002@gmail.com).
@@ -20,11 +20,12 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-![github graph](https://activity-graph.herokuapp.com/graph?username=R0HITKUMAR&theme=react-dark)
+<br>
+ ![github graph](https://activity-graph.herokuapp.com/graph?username=R0HITKUMAR&theme=react-dark)
 
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=R0HITKUMAR&theme=dark&hide_border=false" width = 500 align="left">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=R0HITKUMAR&theme=dark" align="right">
+
 <img src = "https://github-readme-stats.vercel.app/api?username=R0HITKUMAR&show_icons=true&theme=dark" width = 500 align = "center">
  <br><br>
 

@@ -26,7 +26,7 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=R0HITKUMAR&theme=dark&hide_border=false" width = 500 align="left">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=R0HITKUMAR&theme=dark" align="right">
 <img src = "https://github-readme-stats.vercel.app/api?username=R0HITKUMAR&show_icons=true&theme=dark" width = 500 align = "center">
- 
+ <br><br>
 
 <p align="center" style="background-color:white;">
   <i>Let's connect and chat! Open to anything under the sun.</i>

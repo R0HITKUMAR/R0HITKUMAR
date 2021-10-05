@@ -23,8 +23,8 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
 ![github graph](https://activity-graph.herokuapp.com/graph?username=R0HITKUMAR&theme=react-dark)
 
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=R0HITKUMAR&theme=dark&hide_border=false" width = 500>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=R0HITKUMAR&theme=dark" width = 500>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=R0HITKUMAR&theme=dark&hide_border=false" width = 500 align="left">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=R0HITKUMAR&theme=dark" align="right">
 <img src = "https://github-readme-stats.vercel.app/api?username=R0HITKUMAR&show_icons=true&theme=dark" width = 500 align = "center">
  
 

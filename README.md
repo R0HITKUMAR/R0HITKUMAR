@@ -24,8 +24,8 @@ Hi,I'm a Web Developer.<br>Apart from that I love to learn about new technologie
 
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=R0HITKUMAR&theme=dark&hide_border=false" width = 500>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0HITKUMAR&theme=dark)](https://github.com/R0HITKUMAR/github-readme-stats)
-<img src = "https://github-readme-stats.vercel.app/api?username=R0HITKUMAR&show_icons=true&theme=dark" width = 500>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=R0HITKUMAR&theme=dark" width = 500>
+<img src = "https://github-readme-stats.vercel.app/api?username=R0HITKUMAR&show_icons=true&theme=dark" width = 500 align = "center">
  
 
 <p align="center" style="background-color:white;">

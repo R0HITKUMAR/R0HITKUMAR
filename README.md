@@ -44,8 +44,8 @@
   <br>
   
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=r0hitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="r0hitkumar" /> </p>
+  <i>Let's connect and chat! Open to anything under the sun.</i><br>
+  <img src="https://komarev.com/ghpvc/?username=r0hitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="r0hitkumar" />
 </p>
 
 <div style="text-align:center"><img src="readme_files/BOTTOM.png" alt="Rohit Kumar">

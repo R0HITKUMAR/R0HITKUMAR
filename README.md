@@ -1,9 +1,7 @@
 <div style="text-align:center"><a href="https://www.rohitkumar.ml"><img src="readme_files/TOP.png" alt="Rohit Kumar"></a><div>
  <img src="https://github-hero-readme.vercel.app/api?username=R0HITKUMAR&linkedin=R0H1TKUMAR&twitter=R0HITKUMAR_&description=Web%20Developer%20|%20Technical%20%20Content%20Writer" width="100%">
  <br>
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=R0HITKUMAR&theme=dark" align="right">
- <br>
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
+ <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">Hi,I'm a Web Developer. Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.</h3>
 
 

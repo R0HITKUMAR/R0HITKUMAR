@@ -42,11 +42,8 @@
   </p><br>
   <p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0hitkumar&show_icons=true&locale=en&layout=compact" alt="r0hitkumar" />
-  </p>
   <br>
-  
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i><br>
+  <h6><i>Let's connect and chat! Open to anything under the sun.</i></h6><br>
   <img src="https://komarev.com/ghpvc/?username=r0hitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="r0hitkumar" />
 </p>
 

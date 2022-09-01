@@ -1,12 +1,11 @@
 <div style="text-align:center"><a href="https://www.rohitkumar.ml"><img src="readme_files/TOP.png" alt="Rohit Kumar"></a><div>
+  <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
+<h3 align="center">Hi,I'm a Web Developer. <br>Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.</h3>
  <img src="https://github-hero-readme.vercel.app/api?username=R0HITKUMAR&linkedin=R0H1TKUMAR&twitter=R0HITKUMAR_&description=Web%20Developer%20|%20Technical%20%20Content%20Writer" width="100%">
  <br>
- <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">Hi,I'm a Web Developer. Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r0hitkumar" alt="r0hitkumar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r0hitkumar" alt="r0hitkumar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/r0hitkumar_" target="blank"><img src="https://img.shields.io/twitter/follow/r0hitkumar_?logo=twitter&style=for-the-badge" alt="r0hitkumar_" /></a> </p>
 

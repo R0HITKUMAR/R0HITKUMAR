@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">Hi,I'm a Web Developer. Apart from that I love to learn about new technologies and would like to contribute alongwith upgrading my skills and knowledge.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r0hitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="r0hitkumar" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r0hitkumar" alt="r0hitkumar" /></a> </p>
 
@@ -48,11 +48,7 @@
 
 <p align="center" style="background-color:white;">
   <i>Let's connect and chat! Open to anything under the sun.</i>
-  <p align="center">
-    <a href="https://imrohit.ml/github">
-     <img src="https://www.webfreecounter.com/hit.php?id=gefqkkx&nd=6&style=1" border="0" alt="Visitor Number">
-    </a>
-  </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=r0hitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="r0hitkumar" /> </p>
 </p>
 
 <div style="text-align:center"><img src="readme_files/BOTTOM.png" alt="Rohit Kumar">

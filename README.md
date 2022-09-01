@@ -39,10 +39,10 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r0hitkumar&" alt="r0hitkumar" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=r0hitkumar&show_icons=true&locale=en" alt="r0hitkumar" />
- </p><br>
+ </p>
  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r0hitkumar&show_icons=true&locale=en&layout=compact" alt="r0hitkumar" />
-   <br>
+   <br><br>
   <i>Let's connect and chat! Open to anything under the sun.</i><br>
   <img src="https://komarev.com/ghpvc/?username=r0hitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="r0hitkumar" />
 </p>

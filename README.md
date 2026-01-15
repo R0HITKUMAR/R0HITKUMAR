@@ -16,7 +16,6 @@
 
 - 💻 MERN + .NET Full Stack Developer  
 - ☁️ Azure Backend Engineer (Functions, Blob, APIs)  
-- 🏢 Building software for Fire Safety, CCTV & Automation Systems  
 - 🔭 Working on **Resume Builder (MERN)** → https://resumedp.aboutrohit.in  
 - 📝 Writing at → https://blog.aboutrohit.in  
 - 📄 Resume → https://aboutrohit.in/resume  
